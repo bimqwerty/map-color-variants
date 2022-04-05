@@ -1,6 +1,6 @@
 {
   "name": "map-color-variants-pkg",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "map-color-variants for customer \"best-seller\"",
   "main": "index.js",
   "scripts": {
