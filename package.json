@@ -1,0 +1,24 @@
+{
+  "name": "map-color-variants-pkg",
+  "version": "1.0.1",
+  "description": "map-color-variants for customer \"best-seller\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bimqwerty/map-color-variants.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bimqwerty/map-color-variants/issues"
+  },
+  "homepage": "https://github.com/bimqwerty/map-color-variants#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "ramda": "^0.28.0",
+    "shopify-api-node": "^3.9.0"
+  }
+}
